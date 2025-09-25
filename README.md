@@ -64,7 +64,7 @@ This repository contains a **Flutter app** — a second frontend for USTC (mobil
 ## 📱 Flutter Application (Screenshots)
 
 <p align="center">
-  <img src="./images/USTC_fltr.png" alt="Flutter App Screenshot" width="300"/>
+  <img src="./images/USTC_fltr.jpg" alt="Flutter App Screenshot" width="300"/>
 </p>
 
 ---
