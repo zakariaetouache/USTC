@@ -59,4 +59,19 @@ This repository contains a **Flutter app** — a second frontend for USTC (mobil
    - A **Ngrok URL** will be generated (example: `https://1234-56-78-90-00.ngrok-free.app/predict`).  
 2. Launch the Flutter app.  
 3. Paste the Ngrok link into the **Backend URL** field in the app bar.  
-4. Enter any message → receive sentiment classification instantly.  
+4. Enter any message → receive sentiment classification instantly.
+
+## 📱 Flutter Application (Screenshots)
+
+<p align="center">
+  <img src="./images/USTC_fltr.png" alt="Flutter App Screenshot" width="300"/>
+</p>
+
+---
+
+## 💻 Streamlit Application (Screenshots)
+
+<p align="center">
+  <img src="./images/USTC_strm.png" alt="Streamlit UI Screenshot" width="500"/>
+</p>
+
